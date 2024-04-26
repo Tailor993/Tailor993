@@ -1,7 +1,25 @@
-- 👋 Hi, I’m @Tailor993
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Attila Szabo @Tailor993
+- 👀 I’m interested in 
+   - Web application related languages
+     - PHP
+     - Laravel
+     - JavaScript
+     - NodeJS
+     - HTML 5
+     - CSS
+     - jQuery
+   - Databses 
+     - MySQL
+     - MArina DB
+     - MS SQL
+     - Oracle SQL
+     - Mongo DB
+- 🌱 I’m currently learning:
+   - R programing 
+   - Clean Code
+   - Docker
+- 💞️ I’m looking to collaborate on 
+   - Unfurtunetly I don't ahve any spare time now for new projects 😢
 - 📫 How to reach me ...
 
 <!---
