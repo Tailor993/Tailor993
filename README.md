@@ -1,4 +1,7 @@
 - 👋 Hi, I’m Attila Szabo @Tailor993
+   - University IDs:
+      - Edutus: Z4TUHK
+      - Obudai: WC7YLI
 - 👀 I’m interested in 
    - Web application related languages & frameworks
      - PHP 🐘
