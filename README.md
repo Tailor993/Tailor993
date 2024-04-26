@@ -30,8 +30,9 @@
    - Java ☕
 - 💞️ I’m looking to collaborate on 
    - Unfurtunetly I don't ahve any spare time now for new projects 😢
-- 📫 How to reach me 
-   - Tailor993(http://tailor993.hu)
+- 📫 How to reach me
+   - On Linked In (https://www.linkedin.com/in/tailor993/)
+   - On my webpage(http://tailor993.hu)
 
 <!---
 Tailor993/Tailor993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
