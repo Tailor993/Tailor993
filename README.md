@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Attila Szabo @Tailor993
 - 👀 I’m interested in 
-   - Web application related languages
-     - PHP
+   - Web application related languages & frameworks
+     - PHP 🐘
      - Laravel
      - JavaScript
      - NodeJS
@@ -18,9 +18,17 @@
    - R programing 
    - Clean Code
    - Docker
+- 🗃️ Languages that I have leaned but not used frequently
+   - C#
+   - C
+   - Python 
+   - Bash
+   - PowerShell
+   - Java ☕
 - 💞️ I’m looking to collaborate on 
    - Unfurtunetly I don't ahve any spare time now for new projects 😢
-- 📫 How to reach me ...
+- 📫 How to reach me 
+   - Tailor993(http://tailor993.hu)
 
 <!---
 Tailor993/Tailor993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
